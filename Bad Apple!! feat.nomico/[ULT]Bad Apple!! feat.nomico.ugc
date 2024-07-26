@@ -1,0 +1,49 @@
+' Created with Margrete v1.3.1.0-4235b2a
+
+
+' Header Section
+@VER	4
+@TITLE	Bad Apple!! feat.nomico
+@ARTIST	Masayoshi Minoshima
+@DESIGN	【Ex】Bad Melon!!
+@DIFF	5
+@LEVEL	14
+@CONST	14.10000
+@SONGID	Bad Apple!! feat.nomico
+
+@BGM	Bad Apple!!.ogg
+@BGMOFS	-1.73900
+@BGMPRV	57.39100	85.21700
+
+@JACKET	Bad Apple!!.jpg
+@BGIMG	
+@BGMODE	PASSIVE	FALSE
+@FLDCOL	0
+@FLDIMG	
+
+@FLAG	DIFFTTL	FALSE
+@FLAG	SOFFSET	TRUE
+@FLAG	CLICK	TRUE
+@FLAG	EXLONG	TRUE
+@FLAG	BGMWCMP	FALSE
+
+@ATINFO	AUTHORS	
+@ATINFO	SITES	
+@DLURL	
+@COPYRIGHT	
+@LICENSE		
+@TICKS	480
+
+@BEAT	0	4	4
+
+@BPM	0'0	138.00000
+
+@TIL	0	0'0	1.00000
+
+@MAINTIL	0
+@MAINBPM	138.00000
+@ENDHEAD
+
+
+
+' Notes Section
