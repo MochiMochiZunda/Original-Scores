@@ -1,4 +1,4 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.3.1.1-a6d003e
 
 
 ' Header Section
@@ -7,8 +7,8 @@
 @ARTIST	uynet
 @DESIGN	And the world knows the destiny
 @DIFF	3
-@LEVEL	14+
-@CONST	14.90000
+@LEVEL	15
+@CONST	15.10000
 @SONGID	そしてせかいはてんめいをしる
 
 @BGM	そして世界は天命を知る.ogg
