@@ -1,16 +1,18 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	ビビビビ
+@SORT	ビビビビ
 @ARTIST	フロクロ
 @DESIGN	AIRを超えてけーっ
 @DIFF	4
 @LEVEL	2
 @WEATTR	？
 @CONST	0.00000
-@SONGID	びびびび
+@SONGID	ビビビビ
 
 @BGM	ビビビビ.ogg
 @BGMOFS	-1.20000
@@ -19,7 +21,7 @@
 @JACKET	ビビビビ.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -27,6 +29,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -77,8 +80,7 @@
 #480>sC4
 
 #29'0:t64
-#29'0:a64UCN
-#29'0:H648
+#29'0:H64N
 #480>s
 
 #29'960:s04
@@ -94,8 +96,7 @@
 #480>sC4
 
 #29'960:t64
-#29'960:a64UCN
-#29'960:H648
+#29'960:H64N
 #480>s
 
 #30'0:s04
@@ -111,8 +112,7 @@
 #480>sC4
 
 #30'0:t64
-#30'0:a64UCN
-#30'0:H648
+#30'0:H64N
 #480>s
 
 #30'960:s04
@@ -128,8 +128,7 @@
 #480>sC4
 
 #30'960:t64
-#30'960:a64UCN
-#30'960:H648
+#30'960:H64N
 #480>s
 
 #0'0:x64U
