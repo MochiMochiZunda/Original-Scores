@@ -1,9 +1,11 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	Spring of Dreams
+@SORT	Spring of Dreams
 @ARTIST	3L (NJK Record)
 @DESIGN	なないろメロン
 @DIFF	5
@@ -18,14 +20,15 @@
 @JACKET	Spring of Dreams.png
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
 @FLAG	SOFFSET	TRUE
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
-@FLAG	BGMWCMP	FALSE
+@FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

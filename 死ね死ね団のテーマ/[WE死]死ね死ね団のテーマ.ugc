@@ -1,16 +1,18 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	死ね死ね団のテーマ
+@SORT	シネシネダンノテーマ
 @ARTIST	死ね死ね団
 @DESIGN	黄色いノーツをやっつけろ
 @DIFF	4
 @LEVEL	4
 @WEATTR	死
 @CONST	14.40000
-@SONGID	しねしねだんのてーま
+@SONGID	死ね死ね団のテーマ
 
 @BGM	死ね死ね団のテーマ.ogg
 @BGMOFS	0.00000
@@ -19,7 +21,7 @@
 @JACKET	死ね死ね団のテーマ.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -27,6 +29,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

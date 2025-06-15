@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	下水鳴動して鼠一匹
+@SORT	ゲスイメイドウシテネズミイツピキ
 @ARTIST	O-SE
 @DESIGN	下水鳴動してあーく一匹
 @DIFF	3
 @LEVEL	14+
 @CONST	14.80000
-@SONGID	げすいめいどうしてねずみいっぴき
+@SONGID	ゲスイメイドウシテネズミイツピキ
 
 @BGM	下水鳴動して鼠一匹.ogg
 @BGMOFS	0.00000
@@ -18,7 +20,7 @@
 @JACKET	下水鳴動して鼠一匹.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	808080
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -169,13 +172,11 @@
 #3'960:x92U
 #3'960:xC2U
 #3'960:t22
-#3'960:a22UCN
-#3'960:H228
+#3'960:H22N
 #480>s
 
 #3'960:t52
-#3'960:a52UCN
-#3'960:H528
+#3'960:H52N
 #480>s
 
 #3'1440:t22

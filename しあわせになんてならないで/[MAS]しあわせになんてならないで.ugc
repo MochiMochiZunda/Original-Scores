@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	しあわせになんてならないで
+@SORT	シアワセニナンテナラナイデ
 @ARTIST	Aiobahn feat. ナナヲアカリ
 @DESIGN	なないろメロン
 @DIFF	3
 @LEVEL	10+
 @CONST	10.60000
-@SONGID	しあわせになんてならないで 
+@SONGID	シアワセニナンテナラナイデ
 
 @BGM	しあわせになんてならないで.ogg
 @BGMOFS	-1.71400
@@ -18,7 +20,7 @@
 @JACKET	しあわせになんてならないで.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	FFFF
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

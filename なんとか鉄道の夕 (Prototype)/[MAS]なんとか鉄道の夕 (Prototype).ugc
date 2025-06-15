@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	なんとか鉄道の夕 (Prototype)
+@SORT	ナントカテツドウノユウPrototype
 @ARTIST	海茶・多良レイト
 @DESIGN	なないろ鉄道 終わり発始まり行き
 @DIFF	3
 @LEVEL	13
 @CONST	13.40000
-@SONGID	なんとかてつどうのゆうぷろとたいぷ
+@SONGID	ナントカテツドウノユウアPrototype
 
 @BGM	なんとか鉄道の夕 (Prototype).ogg
 @BGMOFS	0.00000
@@ -18,7 +20,7 @@
 @JACKET	なんとか鉄道の夕 (Prototype).jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	B54539
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	TRUE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -131,6 +134,6 @@
 
 
 ' Notes Section
-#0'0:T64S1
-#5760>s64S
+#0'0:C647S1,0
+#5760>c647S
 

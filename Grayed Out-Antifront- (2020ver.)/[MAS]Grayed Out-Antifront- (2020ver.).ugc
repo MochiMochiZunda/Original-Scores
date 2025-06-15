@@ -1,9 +1,11 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	Grayed Out-Antifront-
+@SORT	Grayed Out-Antifront-
 @ARTIST	Getty vs. DJ DiA
 @DESIGN	STARGAZER -ANTiFRONT GEARS-
 @DIFF	3
@@ -18,7 +20,7 @@
 @JACKET	Grayed Out-Antifront- (2020ver.).png
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

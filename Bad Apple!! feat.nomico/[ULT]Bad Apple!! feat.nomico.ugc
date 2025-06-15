@@ -1,11 +1,13 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	Bad Apple!! feat.nomico
+@SORT	Bad Apple!! feat.nomico
 @ARTIST	Masayoshi Minoshima
-@DESIGN	【Ex】Bad Melon!!
+@DESIGN	Bad Melon!!
 @DIFF	5
 @LEVEL	14
 @CONST	14.10000
@@ -18,14 +20,15 @@
 @JACKET	Bad Apple!!.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
 @FLAG	SOFFSET	TRUE
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	TRUE
-@FLAG	BGMWCMP	FALSE
+@FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

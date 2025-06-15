@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	濁るイノセント
+@SORT	ニゴルイノセント
 @ARTIST	picdo
-@DESIGN	【Ex】#E0DE94
+@DESIGN	#E0DE94
 @DIFF	3
 @LEVEL	13
 @CONST	13.00000
-@SONGID	にごるいのせんと
+@SONGID	ニゴルイノセント
 
 @BGM	濁るイノセント.ogg
 @BGMOFS	-1.33300
@@ -18,7 +20,7 @@
 @JACKET	濁るイノセント.png
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	TRUE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	

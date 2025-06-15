@@ -1,0 +1,52 @@
+' Created with Margrete v1.8.0-23b6ce2
+
+
+' Header Section
+@VER	8
+@EXVER	1
+@TITLE	Zenit; tieforange
+@SORT	Zenit; tieforange
+@ARTIST	R.Solidor
+@DESIGN	R.Solidor
+@DIFF	3
+@LEVEL	14
+@CONST	14.00000
+@SONGID	Zenit; tieforange
+
+@BGM	Zenit; tieforange - R.Solidor.wav
+@BGMOFS	0.00000
+@BGMPRV	0.00000	0.00000
+
+@JACKET	Coloration.png
+@BGIMG	
+@BGMODE	PASSIVE	FALSE
+@FLDCOL	-1
+@FLDIMG	
+
+@FLAG	DIFFTTL	FALSE
+@FLAG	SOFFSET	TRUE
+@FLAG	CLICK	TRUE
+@FLAG	EXLONG	FALSE
+@FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
+
+@ATINFO	AUTHORS	
+@ATINFO	SITES	
+@DLURL	
+@COPYRIGHT	
+@LICENSE		
+@TICKS	480
+
+@BEAT	0	4	4
+
+@BPM	0'0	192.00000
+
+@TIL	0	0'0	1.00000
+
+@MAINTIL	0
+@MAINBPM	192.00000
+@ENDHEAD
+
+
+
+' Notes Section

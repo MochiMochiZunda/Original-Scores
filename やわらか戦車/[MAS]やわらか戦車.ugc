@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	やわらか戦車
+@SORT	ヤワラカセンシャ
 @ARTIST	ラレコ
 @DESIGN	やわらかあーく
 @DIFF	3
 @LEVEL	14
 @CONST	14.40000
-@SONGID	やわらかせんしゃ
+@SONGID	ヤワラカセンシャ
 
 @BGM	やわらか戦車.ogg
 @BGMOFS	0.00000
@@ -18,7 +20,7 @@
 @JACKET	やわらか戦車.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -583,25 +586,11 @@
 #31'1440:x48U
 #31'1440:a48UCN
 
-#31'1440:C480Z
-#10>s
-#20>s
-#30>s
-#40>s
-#50>s
-#60>s
-#70>s
-#80>s01C
+#31'1440:C4800Z,10
+#80>c013C
 
-#31'1440:C480Z
-#10>s
-#20>s
-#30>s
-#40>s
-#50>s
-#60>s
-#70>s
-#80>sF1C
+#31'1440:C4800Z,10
+#80>cF13C
 
 #30'480:t04
 #30'1440:t44
@@ -1084,25 +1073,11 @@
 #59'1440:x48U
 #59'1440:a48UCN
 
-#59'1440:C480Z
-#10>s
-#20>s
-#30>s
-#40>s
-#50>s
-#60>s
-#70>s
-#80>s01C
+#59'1440:C4800Z,10
+#80>c013C
 
-#59'1440:C480Z
-#10>s
-#20>s
-#30>s
-#40>s
-#50>s
-#60>s
-#70>s
-#80>sF1C
+#59'1440:C4800Z,10
+#80>cF13C
 
 #60'120:t44
 #60'600:t04
@@ -1157,17 +1132,16 @@
 #960>s04
 
 #62'0:x04U
-#62'0:a04UCN
-#62'0:S048
-#64>c348
-#128>c548
-#176>c648
-#224>c748
-#288>c848
-#368>c948
-#464>cA48
-#600>cB48
-#840>cC48
-#960>sC48
+#62'0:S0428N
+#64>c3428
+#128>c5428
+#176>c6428
+#224>c7428
+#288>c8428
+#368>c9428
+#464>cA428
+#600>cB428
+#840>cC428
+#960>sC428
 
 #62'0:xC4U

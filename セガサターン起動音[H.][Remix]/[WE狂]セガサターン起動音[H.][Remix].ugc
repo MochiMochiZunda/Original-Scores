@@ -1,16 +1,18 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	セガサターン起動音[H.][Remix]
+@SORT	セガサターンキドウオン
 @ARTIST	Hiro
 @DESIGN	合作だよ
 @DIFF	4
 @LEVEL	2
 @WEATTR	狂
 @CONST	0.00000
-@SONGID	せがさたーんきどうおんHRemix
+@SONGID	セガサターンキドウオン
 
 @BGM	セガサターン起動音[H.][Remix].ogg
 @BGMOFS	0.00000
@@ -19,7 +21,7 @@
 @JACKET	セガサターン起動音[H.][Remix].png
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -27,6 +29,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -92,8 +95,7 @@
 #2'1120:tC2
 #2'1200:tE2
 #2'1200:x64U
-#2'1200:a64UCN
-#2'1200:H648
+#2'1200:H64N
 #2880>s
 
 #5'720:t44
@@ -234,24 +236,20 @@
 
 #12'0:h33
 #960>s
-#12'960:a33UCN
-#12'960:H338
+#12'960:H33N
 #960>s
 
 #12'0:hA3
 #960>s
-#12'960:aA3UCN
-#12'960:HA38
+#12'960:HA3N
 #960>s
 
 #12'0:x64U
-#12'0:a64UCN
-#12'0:H648
+#12'0:H64N
 #960>s
 
 #12'0:x03U
-#12'0:a03UCN
-#12'0:H038
+#12'0:H03N
 #960>s
 
 #12'960:x64U
@@ -421,13 +419,11 @@
 #29'720:x04U
 #29'720:xC4U
 #29'960:x42U
-#29'960:a42UCN
-#29'960:H428
+#29'960:H42N
 #960>s
 
 #29'960:xA2U
-#29'960:aA2UCN
-#29'960:HA28
+#29'960:HA2N
 #960>s
 
 #29'960:x04U

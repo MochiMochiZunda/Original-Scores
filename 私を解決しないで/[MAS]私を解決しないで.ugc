@@ -1,15 +1,17 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.8.0-23b6ce2
 
 
 ' Header Section
-@VER	4
+@VER	8
+@EXVER	1
 @TITLE	私を解決しないで
+@SORT	ワタシヲカイケツシナイデ
 @ARTIST	フロクロ
 @DESIGN	Do not solve "me"
 @DIFF	3
 @LEVEL	13+
 @CONST	13.50000
-@SONGID	わたしをかいけつしないで
+@SONGID	ワタシヲカイケツシナイデ
 
 @BGM	私を解決しないで.ogg
 @BGMOFS	-2.08600
@@ -18,7 +20,7 @@
 @JACKET	私を解決しないで.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	FFFFFF
+@FLDCOL	-1
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
@@ -26,6 +28,7 @@
 @FLAG	CLICK	TRUE
 @FLAG	EXLONG	FALSE
 @FLAG	BGMWCMP	TRUE
+@FLAG	HIPRECISION	TRUE
 
 @ATINFO	AUTHORS	
 @ATINFO	SITES	
@@ -373,8 +376,7 @@
 #17'0:s03
 #240>cD3
 #480>s03
-#17'480:a03UCN
-#17'480:H038
+#17'480:H03N
 #480>s
 
 #17'240:t32
@@ -1501,8 +1503,7 @@
 #47'720:aD3ULN
 
 #47'720:fA3A
-#47'720:aA3UCN
-#47'720:HA38
+#47'720:HA3N
 #480>s
 
 #47'720:f33A
@@ -1774,13 +1775,11 @@
 #55'1440:a43ULN
 
 #55'0:t43
-#55'0:a43UCN
-#55'0:H438
+#55'0:H43N
 #480>s
 
 #55'960:t83
-#55'960:a83UCN
-#55'960:H838
+#55'960:H83N
 #480>s
 
 #52'0:s72
